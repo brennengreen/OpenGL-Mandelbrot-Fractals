@@ -49,12 +49,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="cube.frag">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="cube.vert">
-      <Filter>Resource Files</Filter>
-    </None>
     <None Include="plane.frag">
       <Filter>Resource Files</Filter>
     </None>
@@ -65,6 +59,15 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="mesh.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="fractal.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="mandel.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="julia.frag">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>

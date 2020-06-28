@@ -136,8 +136,9 @@
     <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="cube.frag" />
-    <None Include="cube.vert" />
+    <None Include="julia.frag" />
+    <None Include="mandel.frag" />
+    <None Include="fractal.vert" />
     <None Include="mesh.frag" />
     <None Include="mesh.vert" />
     <None Include="plane.frag" />
